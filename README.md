@@ -1,9 +1,3 @@
-# Hi, I'm Shipon Sarder
-
-Welcome to my GitHub profile!
-
----
-
 ## About Me
 
 - Flutter Developer with 5 years of experience, including a strong background in native Android app development.
